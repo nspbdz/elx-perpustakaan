@@ -11,7 +11,7 @@
 
 -   Buka terminal, lalu arahkan ke folder root (c:/laragon/www)
 -   Lakukan "clone" pada projek ini
-        git clone https://github.com/AaEzha/elx-perpustakaan.git
+    ``git clone https://github.com/AaEzha/elx-perpustakaan.git``
 -   ``cd elx-perpustakaan``
 -   ``composer install``
 -   Buat database baru, kemudian sesuaikan isi file ``.env``
